@@ -1,0 +1,47 @@
+name: Battle entry
+description: Enter your one-minute cut of The Letter
+title: "Entry: <your title> by <your handle>"
+labels: ["entry"]
+body:
+  - type: input
+    id: by
+    attributes:
+      label: Your name and handle
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Public link to your 60-second cut
+    validations:
+      required: true
+  - type: input
+    id: medium
+    attributes:
+      label: Medium and style
+      placeholder: hand-drawn 2D, stop-motion, 3D, live action, code...
+    validations:
+      required: true
+  - type: textarea
+    id: tools
+    attributes:
+      label: Tools used, including any AI
+    validations:
+      required: true
+  - type: input
+    id: hours
+    attributes:
+      label: Approximate time spent (hours)
+  - type: textarea
+    id: about
+    attributes:
+      label: About this cut
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: I used the soundtrack unchanged, and my cut is 60 seconds.
+          required: true
+        - label: I made these pictures (or have the right to use them), and Future Radio may show this entry side by side with the others, credited to me.
+          required: true
