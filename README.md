@@ -14,7 +14,7 @@ The Future Radio studio made its cut first and locked it. Now anyone can make th
 
 On Day 3 of a public seven-day experiment on X, Leo Guinan asked strangers to pay a human animator to compete with the studio. [Garcia (@garcia590)](https://x.com/garcia590) paid $50, which funded the first minute. Garcia has backed these experiments for weeks with homework, feedback and the model behind compute grants for stories.
 
-The first commissioned challenger is [Belen (@Belenndaniel)](https://x.com/Belenndaniel), a human animator, at $50 a minute. Her cut is in progress and is not in this repo yet.
+The first commissioned challenger is [Belen (@Belenndaniel)](https://x.com/Belenndaniel), a human animator, at $50 a minute. She accepted the commission on 2026-11-17. Her cut is in progress (2–3 weeks) and isn't in this repo yet.
 
 ## The kit
 
@@ -41,7 +41,7 @@ Read the [rules](RULES.md) before you start. They're short.
 | Entry | By | Medium | Link |
 |---|---|---|---|
 | The studio's cut (locked 2026-11-17) | Future Radio studio | 2D vector, rendered in code | [`entries/studio/ENTRY.md`](entries/studio/ENTRY.md) |
-| *(commissioned, in progress)* | Belen (@Belenndaniel) | — | — |
+| *(commissioned 2026-11-17, in progress)* | Belen (@Belenndaniel) | — | — |
 
 ## The cast
 
